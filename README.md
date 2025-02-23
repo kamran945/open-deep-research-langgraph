@@ -5,7 +5,7 @@ Automated Research Report Generation with LangGraph Functional API
 
 ## Overview
 
-This repository implements an automated research report generation system using the **LangGraph Functional API**. It follows a structured workflow where different phases of report writing are handled asynchronously. This implementation is inspired by the [Open Deep Research](https://github.com/langchain-ai/open_deep_research/tree/main) repository but adapts it to **LangGraph's Functional API** rather than the Graph API.
+This repository implements an automated research report generation system using the **LangGraph Functional API**. It follows a structured workflow where different phases of report writing are handled asynchronously. This implementation is inspired by the [Open Deep Research](https://github.com/langchain-ai/open_deep_research/tree/main) repository from `langchain-ai` but adapts it to **LangGraph's Functional API** rather than the Graph API.
 
 ## How It Works
 
