@@ -57,13 +57,12 @@ This research assistant follows a workflow similar to **OpenAI Deep Research** a
 - Define **search depth** for each section (number of **iterations of writing, reflection, search, and re-writing**).
 - Customize the **writer model** (e.g., **Anthropic Claude**).
 
+### LangSmith Tracing  
+
+**LangSmith** tracing was also used in this implementation. LangSmith is a powerful debugging and evaluation tool for LLM applications, helping to trace, profile, and improve AI workflows. It enables tracking model interactions, identifying bottlenecks, and optimizing performance of LLM applications.
+
 ## Workflow Diagram
-
-Below is the workflow diagram illustrating how the system operates:
-
-![Workflow Diagram](path_to_your_image.png)
-
----
+Workflow Diagram can be found [here](https://github.com/langchain-ai/open_deep_research/tree/main)
 
 This implementation optimizes **research efficiency, parallel execution, and customization**, making it a powerful tool for automated research and report generation.
 
